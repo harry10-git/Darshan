@@ -1,0 +1,164 @@
+body
+{
+    margin: 0;
+}
+
+hr
+{
+    border-color:#6B728E;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 10%;
+    margin: 50px auto 50px auto;
+
+}
+
+.Navbar_container
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* {
+    padding-bottom: 0;
+    padding-top: 5px;
+} */
+.navbar-brand
+{
+    font-family: "Ubuntu";
+    font-size: 250%;
+    font-weight: bold;
+    color: #8acaca;
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+
+.nav-item
+{
+    padding: 0 18px;
+}
+
+.nav-link
+{
+    font-size: 1.2 rem;
+    font-family: "Montserrat-light";
+}
+
+.navbar_txt
+{
+    font-size: 120%;
+    /* color: #3f7474; */
+    color: white;
+}
+.navbar-brand
+{
+    color: white;
+}
+.Manipal_Darshan
+{
+    /* background-image: linear-gradient(to top ,#CBEDD5, #97DECE, #62B6B7, #439A97); */
+
+
+    height: 800px;
+    width: 100%;
+    padding-top: 0;
+    position: relative;
+}
+
+#myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+.Manipal_txt
+{
+    margin-top: 0;
+    padding-top: 5%;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: 20%;
+    margin-bottom: 0;
+    font-size:  1700%;
+    font-family: 'Passions Conflict', cursive;
+    /* color: #e7fafa; */
+    color: white;
+    position: relative;
+    bottom: 60px;
+}
+
+.Darshan_txt
+{
+    margin-top: 0;
+    padding-top: 0;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 0;
+    margin-top: 0;
+    font-size: 12rem;
+    /* color: #e7fafa; */
+    color: white;
+    font-family: 'Tiro Devanagari Hindi', serif;
+    position: relative;
+    bottom: 80px;
+}
+
+
+.Sun_giphy
+{
+    position: absolute;
+    right: 5%;
+    top: 15%;
+}
+.Mountain_giphy
+{
+    position: absolute;
+    bottom: 0%;
+    height: 400px;
+    width: auto;
+}
+
+
+/* Second Section */
+#second-section
+{
+    /* text-align: center; */
+
+}
+
+.card-header
+{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.container-fluid
+{
+    padding: 2% 5%;
+}
+.card
+{
+    text-align: center;
+
+}
+
+.mycol
+{
+    padding: 0 4%;
+    margin: 2rem 0 5rem 0;
+}
+.promo-img
+{
+
+    height: 150px;
+    width: auto;
+    padding: 2% 5%;
+    margin-bottom: 5%;
+}
+.beach-chair
+{
+    position: relative;
+    left: 70%;
+    height: 20rem;
+}
