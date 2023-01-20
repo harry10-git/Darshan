@@ -1,0 +1,62 @@
+body
+{
+    margin: 0;
+}
+
+h2
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+}
+
+p
+{
+    font-family: 'Merriweather', serif;
+}
+
+.yellow-wave
+{
+    /* position: fixed; */
+    width: 100%;
+}
+
+.rotate
+{
+    transform: rotate(180deg);
+}
+
+.content
+{
+    width: 70%;
+    margin: 70px auto 150px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.colored
+{
+    background-color: #334599;
+    /* padding: 50px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+
+.img-content-right
+{
+    width: 55%;
+    float: right;
+    margin-left: 100px;
+}
+
+
+
+
+.img-content-left
+{
+    width: 55%;
+    float: left;
+    margin-right: 100px;
+}
+
