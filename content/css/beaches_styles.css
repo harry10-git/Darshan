@@ -20,7 +20,63 @@ p
     width: 100%;
 }
 
+<<<<<<< HEAD
 
+=======
+.mynav
+{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    padding: 2rem;
+    width: 100%;
+
+}
+
+.navbar
+{
+    padding-bottom: 4.5rem;
+}
+
+a {
+    background: linear-gradient(0deg, white, white) no-repeat right bottom / 0 var(--bg-h);
+    transition: background-size 350ms;
+    --bg-h: 100%;
+  }
+  a:where(:hover, :focus-visible) {
+    background-size: 100% var(--bg-h);
+    background-position-x: left;
+  }
+
+.navbar-brand
+{
+    font-family: "Ubuntu";
+    font-size:  3.2rem;
+    font-weight: bold;
+    color: white;
+}
+
+
+
+.nav-item
+{
+    padding: 0 18px;
+    font-size: 1.5rem;
+}
+
+.nav-link
+{
+    font-size: 1.2 rem;
+    font-family: "Montserrat-light";
+}
+
+.rotate
+{
+
+    transform: rotate(180deg);
+
+}
+>>>>>>> 66340936649ce68b6f6070a6fc5ea1553c68326b
 
 .content
 {
