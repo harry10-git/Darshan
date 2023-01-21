@@ -20,10 +20,7 @@ p
     width: 100%;
 }
 
-.rotate
-{
-    transform: rotate(180deg);
-}
+
 
 .content
 {
@@ -57,5 +54,22 @@ p
     width: 55%;
     float: left;
     margin-right: 100px;
+}
+
+.rotate
+{
+    transform: rotate(180deg);
+}
+
+.footer-class
+{
+    position: absolute;
+    text-align: center;
+    background-color: #ffde59;
+    width: 100%;
+}
+.social_icon
+{
+    margin: 20px 10px;
 }
 

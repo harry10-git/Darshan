@@ -59,3 +59,14 @@ p
     margin-right: 100px;
 }
 
+.footer-class
+{
+    position: absolute;
+    text-align: center;
+    background-color: #47A5A8;
+    width: 100%;
+}
+.social_icon
+{
+    margin: 20px 10px;
+}
